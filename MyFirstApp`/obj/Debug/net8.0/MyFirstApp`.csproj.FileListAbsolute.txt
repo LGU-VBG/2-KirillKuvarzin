@@ -1,0 +1,15 @@
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\bin\Debug\net8.0\MyFirstApp`.exe
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\bin\Debug\net8.0\MyFirstApp`.deps.json
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\bin\Debug\net8.0\MyFirstApp`.runtimeconfig.json
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\bin\Debug\net8.0\MyFirstApp`.dll
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\bin\Debug\net8.0\MyFirstApp`.pdb
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.AssemblyInfoInputs.cache
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.AssemblyInfo.cs
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.csproj.CoreCompileInputs.cache
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.sourcelink.json
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.dll
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\refint\MyFirstApp`.dll
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.pdb
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\MyFirstApp`.genruntimeconfig.cache
+c:\Users\Кирилл\github-classroom\LGU-VBG\2-KirillKuvarzin\MyFirstApp`\obj\Debug\net8.0\ref\MyFirstApp`.dll
